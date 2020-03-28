@@ -6,7 +6,7 @@ public class GoodFirstProgram
 	{
 		System.out.println( "Hello World!" );
 		System.out.println ("test, test")
-		System.out.println( "We're in business!" );
+		System.out.println( "We're in business" );
 		
 	}
 }
