@@ -9,6 +9,6 @@ public class GoodFirstProgram
 		System.out.println( "We're in business" );
 		
 		
-		System.out.println("Medha's test is here....");
+		System.out.println("Medha's test is here");
 	}
 }
