@@ -1,1 +1,12 @@
+Hello welcome!
 
+public class GoodFirstProgram
+{
+	public static void main( String[] args )
+	{
+		System.out.println( "Hello World!" );
+		System.out.println ("test, test")
+		System.out.println( "We're in business" );
+		
+	}
+}
